@@ -1,2 +1,2 @@
 # hello-world
-just Self introduction
+图片轮播，实现一般的几张图片的轮播的功能。
